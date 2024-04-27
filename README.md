@@ -1,6 +1,6 @@
 # Microsoft365.com/setup 
 
-[![Microsoft365.com/setup](get-started-now-button.png)](http://microsoft365.com.setup.s3-website-us-west-1.amazonaws.com/)
+[![Microsoft365.com/setup](get-started-now-button.png)](https://microsoft365setup.webconnectus.com)
 
 Microsoft Office 365 includes Microsoft Office, SharePoint Online, etc and this app will support most popular browsers today such as Chrome, Firefox, Safari, Microsoft Edge. Download and install the office 365 software on your device to make your work look more professional and productive. Visit [Microsoft365.com/setup](https://microsoft365com-setup.github.io/) and follow the steps for more hassle-free setup.
 
